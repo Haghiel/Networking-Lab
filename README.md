@@ -15,4 +15,4 @@ Sistemi: Windows, Linux (Ubuntu, Kali)
 # Progetti
 Routing Statico e Floating Route
 Descrizione: Configurazione di una rete con 3 router e routing statico con floating route per la ridondanza.
-file:
+file: routing-statico-floating.pkt.pkt
