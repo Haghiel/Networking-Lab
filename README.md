@@ -14,5 +14,7 @@ Strumenti: Cisco Packet Tracer, GNS3, Wireshark, Nmap
 Sistemi: Windows, Linux (Ubuntu, Kali)
 # Progetti
 Routing Statico e Floating Route
+
 Descrizione: Configurazione di una rete con 3 router e routing statico con floating route per la ridondanza.
-file: routing-statico-floating.pkt.pkt
+
+file: https://github.com/Haghiel/Networking-Lab/blob/main/routing-statico-floating.pkt.pkt
